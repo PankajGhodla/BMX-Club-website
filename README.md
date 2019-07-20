@@ -4,9 +4,9 @@
 
 <p>Some images of the website</p>
 
-
-<img src="https://github.com/PankajGhodla/BMX-Club-website/blob/master/Screen%20Shot%201.png" width="400px">
 <img src="https://github.com/PankajGhodla/BMX-Club-website/blob/master/Screen%20Shot%202.png" width="400px">
+<img src="https://github.com/PankajGhodla/BMX-Club-website/blob/master/Screen%20Shot%201.png" width="400px">
+
 
 
 
