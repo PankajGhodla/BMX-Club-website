@@ -10,4 +10,4 @@
 
 
 
-<p>Note: This website doesn't scale very well, so it maybe look quite bizare in small screen devices.</p>
+<p>Note: This website doesn't scale very well, so it maybe look quite bizarre in small screen devices.</p>
