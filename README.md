@@ -4,7 +4,7 @@
 
 <p>Some images of the website</p>
 <div>
-<img style="display=inline" src="https://github.com/PankajGhodla/BMX-Club-website/blob/master/Screen%20Shot%202.png" width="400px">
+<img style="display=inline, margin-right= 30px" src="https://github.com/PankajGhodla/BMX-Club-website/blob/master/Screen%20Shot%202.png" width="400px">
 <img style="display=inline" src="https://github.com/PankajGhodla/BMX-Club-website/blob/master/Screen%20Shot%201.png" width="400px">
 
 </div>
